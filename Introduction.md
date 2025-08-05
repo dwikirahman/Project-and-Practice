@@ -8,3 +8,5 @@ It has three branches:
 - `SolidWorks-Project-and-Practice`: Contains SolidWorks practice files
 
 This repository is intended to demonstrate hands-on experience and continuous learning with data visualization and 3D design tools.
+
+After this Introduction file, i also upload my Portfolio in PDF
